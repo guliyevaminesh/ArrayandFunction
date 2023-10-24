@@ -30,7 +30,7 @@
 
 // function idcountry(a) {
 //     let mycountry = customerlist.find(item => item.id === a);
-//     console.log(mycountry.details[0].quantity*(mycountry.details[0].unitPrice-mycountry.details[0].discount));
+//     console.log(mycountry.details[0].unitPrice*mycountry.details[0].quantity*(1-mycountry.details[0].discount));
 // }
 
 let customerlist =[
